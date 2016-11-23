@@ -1,0 +1,4 @@
+org.craftercms.search.exception
+org.craftercms.search.service
+org.craftercms.search.service.impl
+org.craftercms.search.utils

@@ -1,0 +1,8 @@
+/Users/sumer/code/crafter/search/crafter-search-api/src/main/java/org/craftercms/search/service/Query.java
+/Users/sumer/code/crafter/search/crafter-search-api/src/main/java/org/craftercms/search/service/impl/SolrQuery.java
+/Users/sumer/code/crafter/search/crafter-search-api/src/main/java/org/craftercms/search/exception/SearchException.java
+/Users/sumer/code/crafter/search/crafter-search-api/src/main/java/org/craftercms/search/service/QueryFactory.java
+/Users/sumer/code/crafter/search/crafter-search-api/src/main/java/org/craftercms/search/service/impl/QueryParams.java
+/Users/sumer/code/crafter/search/crafter-search-api/src/main/java/org/craftercms/search/service/SearchRestConstants.java
+/Users/sumer/code/crafter/search/crafter-search-api/src/main/java/org/craftercms/search/service/SearchService.java
+/Users/sumer/code/crafter/search/crafter-search-api/src/main/java/org/craftercms/search/utils/BooleanUtils.java

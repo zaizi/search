@@ -1,0 +1,3 @@
+org/craftercms/search/utils/StringHttpMessageConverterExtended.class
+org/craftercms/search/service/impl/RestClientSearchService.class
+org/craftercms/search/service/impl/SolrRestClientSearchService.class

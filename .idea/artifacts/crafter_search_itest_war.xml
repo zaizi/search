@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crafter-search-itest:war">
+    <output-path>$PROJECT_DIR$/crafter-search-itest/target</output-path>
+    <root id="archive" name="crafter-search-itest-2.2.3-SNAPSHOT.war">
+      <element id="artifact" artifact-name="crafter-search-itest:war exploded" />
+    </root>
+  </artifact>
+</component>

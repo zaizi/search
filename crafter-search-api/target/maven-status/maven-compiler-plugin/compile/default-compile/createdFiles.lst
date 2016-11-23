@@ -1,0 +1,8 @@
+org/craftercms/search/service/QueryFactory.class
+org/craftercms/search/service/impl/SolrQuery.class
+org/craftercms/search/service/SearchService.class
+org/craftercms/search/service/impl/QueryParams.class
+org/craftercms/search/utils/BooleanUtils.class
+org/craftercms/search/service/Query.class
+org/craftercms/search/exception/SearchException.class
+org/craftercms/search/service/SearchRestConstants.class

@@ -1,0 +1,5 @@
+org/craftercms/search/service/impl/SolrDocumentBuilder.class
+org/craftercms/search/controller/MonitoringController.class
+org/craftercms/search/controller/SearchRestController.class
+org/craftercms/search/service/impl/SolrSearchService.class
+org/craftercms/search/exception/SolrDocumentBuildException.class
